@@ -15,6 +15,7 @@
     "watch:css": "postcss src/styles/index.css -o src/index.css -w",
     "start": "npm run watch:css & react-scripts start",
     "build": "npm run build:css && react-scripts build",
+    "postbuild": "react-snap",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
@@ -37,6 +38,7 @@
     "@fullhuman/postcss-purgecss": "^2.1.2",
     "autoprefixer": "^9.7.6",
     "postcss-cli": "^7.1.0",
+    "react-snap": "^1.23.0",
     "tailwindcss": "^1.2.0"
   }
 }
