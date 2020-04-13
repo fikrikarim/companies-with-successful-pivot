@@ -20,7 +20,11 @@ const Header = () => {
           </div>
         </div>
 
-        <img class="mt-10 b-auto sm:w-6/12 px-4" src={image}></img>
+        <img
+          class="mt-10 b-auto sm:w-6/12 px-4"
+          src={image}
+          alt="curved roads to go to mountain"
+        ></img>
       </section>
     </div>
   );
