@@ -6,4 +6,8 @@ Curated list of companies that had successful pivots
 
 ## How to contribute
 
-[Create new issue]()
+[Create new issue](https://github.com/fikrikarim/pivots.dev/issues/new/choose)
+
+or
+
+Make a pull request ;)
