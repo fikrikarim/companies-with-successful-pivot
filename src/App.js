@@ -1,7 +1,9 @@
 import React from "react";
+
 import pivots from "./pivots.json";
 import Header from "./components/Header";
 import Card from "./components/Card";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -13,6 +15,8 @@ function App() {
           <Card company={company}></Card>
         ))}
       </section>
+
+      <Footer></Footer>
     </div>
   );
 }
