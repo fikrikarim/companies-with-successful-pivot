@@ -8,7 +8,7 @@ function App() {
     <div class="px-5 md:px-10 pt-2">
       <Header></Header>
 
-      <section class="pt-12 flex flex-wrap">
+      <section class="pt-16 flex flex-wrap">
         {pivots.map((company) => (
           <Card company={company}></Card>
         ))}

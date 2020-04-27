@@ -1,64 +1,64 @@
 [
   {
     "name": "WhatsApp",
-    "now": "Messaging app",
-    "earlyDays": "App that would show statuses to show for other people like \"On the flight to Munich, send email instead of calling me",
+    "now": "Messaging app.",
+    "earlyDays": "App that would show statuses to show for other people like \"On the flight to Munich, send email instead of calling me.\"",
     "pivot": "Users started using it to ping each other with statuses like, “I woke up late,” or “I’m on my way.” At some point it sort of became instant messaging.",
     "source": "https://www.flyertalk.com/forum/travel-technology/952359-thoughts-about-my-free-iphone-app-whatsapp.html"
   },
   {
     "name": "Youtube",
-    "now": "Video-sharing platform",
-    "earlyDays": "Dating website for single people to make videos introducing themselves and saying what they were looking",
+    "now": "Video-sharing platform.",
+    "earlyDays": "Dating website for single people to make videos introducing themselves and saying what they were looking.",
     "pivot": "Despite offering to pay women $20 to upload videos of themselves to YouTube, nobody came forward. So they decided to remove the \"dating\" part and allow all types of videos.",
     "source": "https://www.theguardian.com/technology/2016/mar/16/youtube-past-video-dating-website#maincontent"
   },
   {
     "name": "Slack",
-    "now": "Instant messaging platform",
-    "earlyDays": "Browser-based massively multiplayer online game called Glitch",
+    "now": "Instant messaging platform.",
+    "earlyDays": "Browser-based massively multiplayer online game called Glitch.",
     "pivot": "Glitch has not attracted an audience large enough to sustain itself.\" The next best idea they had was to productize and market an internal communications tool that they had built to run Glitch.",
     "source": "https://readwrite.com/2013/08/14/stewart-butterfield-tiny-speck-slack/"
   },
   {
     "name": "Instagram",
-    "now": "Photo-sharing social network",
+    "now": "Photo-sharing social network.",
     "earlyDays": "A mobile app called Burbn that let you: check in to locations, make plans, earn points, post pictures, and much more.",
     "pivot": "They wanted to focus on being really good at one thing. So they basically cut everything in the Burbn app except for its photo, comment, and like capabilities",
     "source": "https://www.quora.com/What-is-the-genesis-of-Instagram/answer/Kevin-Systrom?ch=10&share=01f35365&srid=aBWP"
   },
   {
     "name": "Twitter",
-    "now": "Microblogging service",
-    "earlyDays": "Podcasting platform called Odeo",
+    "now": "Microblogging service.",
+    "earlyDays": "Podcasting platform called Odeo.",
     "pivot": "Apple released iTunes that took all the podcasting market. Odeo realized the danger, and they started holding official hackathons to search for new products; one of them became Twitter.",
     "source": "https://www.businessinsider.com/how-twitter-was-founded-2011-4?IR=T"
   },
   {
     "name": "Shopify",
-    "now": "eCommerce platform",
-    "earlyDays": "Snowdevil, an online store for snowboarding equipment",
+    "now": "eCommerce platform.",
+    "earlyDays": "Snowdevil, an online store for snowboarding equipment.",
     "pivot": "Dissatisfied with the existing e-commerce products on the market, Lütke, instead built his own.",
     "source": "https://en.wikipedia.org/wiki/Shopify#History"
   },
   {
     "name": "Netflix",
-    "now": "Streaming service",
-    "earlyDays": "Online DVD rental store sent by mail",
+    "now": "Streaming service.",
+    "earlyDays": "Online DVD rental store sent by mail.",
     "pivot": "Netflix had considered offering movies online, but there were speeds and bandwith problem in mid-2000. After discovering YouTube, and witnessing how popular streaming services, they introduced video on demand via internet.",
     "source": "https://en.wikipedia.org/wiki/Netflix#History"
   },
   {
     "name": "Yelp",
     "now": "Places recommendation service",
-    "earlyDays": "Email-based referral network to ask friends for place recommendation",
+    "earlyDays": "Email-based referral network to ask friends for place recommendation.",
     "pivot": "Users were not answering requests for referrals, but were using the \"Real Reviews\" feature, which allowed them to write reviews unsolicited.",
     "source": "https://en.wikipedia.org/wiki/Yelp#Origins_(2004%E2%80%932009)"
   },
   {
     "name": "Nintendo",
-    "now": "Video game company",
-    "earlyDays": "Playing card company",
+    "now": "Video game company.",
+    "earlyDays": "Playing card company.",
     "pivot": "Nintendo experimented in other areas of business like: taxi company, hotel chain, TV network, instant rice; but none of them were succesful. Then they tried to focus on video games.",
     "source": "https://en.wikipedia.org/wiki/Nintendo#History"
   }
