@@ -2,7 +2,7 @@ import React from "react";
 
 const AddCompanyCard = () => {
   return (
-    <div class="flex flex-grow rounded overflow-hidden shadow-lg w-auto lg:max-w-31% m-1% text-center items-center">
+    <div class="flex flex-grow rounded overflow-hidden shadow-lg w-auto lg:max-w-31-percent m-1-percent text-center items-center">
       <div class="px-6 py-4 flex-grow">
         <p class="text-gray-700 text-base leading-10">
           <p class="font-bold">Contribute to the list</p>

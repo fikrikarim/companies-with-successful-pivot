@@ -2,10 +2,10 @@ module.exports = {
   theme: {
     extend: {
       maxWidth: {
-        "31%": "31%",
+        "31-percent": "31%",
       },
       spacing: {
-        "1%": "1%",
+        "1-percent": "1%",
       },
     },
   },
