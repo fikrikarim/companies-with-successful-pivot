@@ -1,7 +1,14 @@
 module.exports = {
   theme: {
-    extend: {},
+    extend: {
+      maxWidth: {
+        "31%": "31%",
+      },
+      spacing: {
+        "1%": "1%",
+      },
+    },
   },
   variants: {},
   plugins: [],
-}
+};

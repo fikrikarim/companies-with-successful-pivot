@@ -4,6 +4,7 @@ import pivots from "./pivots.json";
 import Header from "./components/Header";
 import Card from "./components/Card";
 import Footer from "./components/Footer";
+import AddCompanyCard from "./components/AddCompanyCard";
 
 function App() {
   return (
@@ -14,6 +15,8 @@ function App() {
         {pivots.map((company) => (
           <Card company={company}></Card>
         ))}
+
+        <AddCompanyCard></AddCompanyCard>
       </section>
 
       <Footer></Footer>
