@@ -5,7 +5,7 @@ const Card = (props) => {
   const { name, now, earlyDays, pivot, source } = company;
 
   return (
-    <div class="flex-grow rounded overflow-hidden shadow-lg w-auto md:w-1/4 m-4">
+    <div class="flex-grow rounded overflow-hidden shadow-lg w-auto lg:w-1/4 m-4">
       <div class="px-6 py-4">
         <div class="font-bold text-2xl pb-4">{name}</div>
 
