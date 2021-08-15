@@ -13,3 +13,5 @@ assignees: ""
 **What did the company do in the early days?**
 
 **What caused the company to pivot?**
+
+**Source?**
